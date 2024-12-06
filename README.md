@@ -4,6 +4,7 @@
 
 This project aims to predict the stability of an electrical grid using machine learning algorithms. It leverages a dataset containing simulated data from electrical grid components, with features such as "tau1", "tau2", "p1", "p2", and "p3", which are indicative of grid performance and stability. A **Random Forest Classifier** is used to predict whether the grid is stable or unstable.
 
+
 ## Technologies Used
 - **Python**: Core programming language.
 - **Pandas**: Data manipulation and analysis.
